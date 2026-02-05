@@ -1,0 +1,11 @@
+.container{
+   display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; 
+}
+.signup-text {
+  margin-top: 15px;
+  color: #cccccc;
+  margin: 3px;
+}
